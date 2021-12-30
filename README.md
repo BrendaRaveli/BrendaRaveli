@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @BrendaRaveli
-- 👀 I’m interessada  em continuar aprendendo e ganhando experiencia
-- 🌱 I’m currently learning  ASP.Net Core, Angular, Entity Framework Core, Java
+- 👋 Ola, eu sou a @Brenda Raveli.
+- 👀 Estou interessada em continuar aprendendo e ganhando experiencia.
+- 🌱 Atualmente estou aprendendo: ASP.Net Core, Angular, Entity Framework Core, Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
-- Email: BrendaRaveli00@gmail.com
+- Email: Brendaraveli00@gmail.com
 - Lindkedin:  https://www.linkedin.com/in/brenda-raveli-b546a6209/
 
 <!---
