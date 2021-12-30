@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrendaRaveli
-- 👀 I’m interessada em continuar aprendendo e ganhar experiencia
+- 👀 I’m interessada  em continuar aprendendo e ganhando experiencia
 - 🌱 I’m currently learning  ASP.Net Core, Angular, Entity Framework Core, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
