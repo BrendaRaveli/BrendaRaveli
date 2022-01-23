@@ -6,7 +6,7 @@
 - Email: Brendaraveli00@gmail.com
 - Lindkedin:  https://www.linkedin.com/in/brenda-raveli-b546a6209/
 
-
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendalpe&layout=compact)](https://github.com/BrendaRaveli/BrendaRaveli/edit/main/README.md)
 <!---
 BrendaRaveli/BrendaRaveli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
