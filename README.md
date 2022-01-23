@@ -7,7 +7,7 @@
 - Lindkedin:  https://www.linkedin.com/in/brenda-raveli-b546a6209/
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/BrendaRaveli/BrendaRaveli/edit/main/README.md)
+[![Top Linguagens](https://github.com/BrendaRaveli?tab=repositories)](https://github.com/BrendaRaveli?tab=repositories)
 ![Estatísticas do GitHub da Brenda](https://github-readme-stats.vercel.app/api ?username=anuraghazra&show_icons=true&theme=radical )
 
 <!---
