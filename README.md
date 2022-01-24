@@ -7,7 +7,7 @@
 - Lindkedin:  https://www.linkedin.com/in/brenda-raveli-b546a6209/
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendalpe&layout=compact)](https://github.com/BrendaRaveli/BrendaRaveli/edit/main/README.md)
-![SUAS estatísticas do github](https://github-readme-stats.vercel.app/api?username=USERNAME)
+![SUAS estatísticas do github](https://github-readme-stats.vercel.app/api?username=BrendaRaveli)
 
 <!---
 BrendaRaveli/BrendaRaveli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
