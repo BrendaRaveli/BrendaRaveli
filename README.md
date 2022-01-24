@@ -8,6 +8,7 @@
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api?username=BrendaRaveli)](https://github.com/BrendaRaveli/BrendaRaveli/edit/main/README.md)
 ![SUAS estatísticas do github](https://github-readme-stats.vercel.app/api?username=BrendaRaveli)
+![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api ?username=anuraghazra&hide=contribs,prs )
 
 <!---
 BrendaRaveli/BrendaRaveli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
