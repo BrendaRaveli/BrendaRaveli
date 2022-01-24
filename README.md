@@ -6,10 +6,7 @@
 - Email: Brendaraveli00@gmail.com
 - Lindkedin:  https://www.linkedin.com/in/brenda-raveli-b546a6209/
 
-![SUAS estatísticas do github](https://github-readme-stats.vercel.app/api?username=BrendaRaveli)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api?username=BrendaRaveli&layout=compact)](https://github.com/BrendaRaveli/BrendaRaveli/edit/main/README.md)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaRaveli&layout=compact)](https://github.com/BrendaRaveli/BrendaRaveli)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
