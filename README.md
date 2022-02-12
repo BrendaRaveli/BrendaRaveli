@@ -1,12 +1,12 @@
 
-- 👋 Ola, eu sou a @Brenda Raveli.                          
-- 👀 Estou interessada em continuar aprendendo e ganhando experiencia.
-- 🌱 Atualmente estou aprendendo: ASP.Net Core, C#, Entity Framework Core, Angular e um pouco de java. 
-- 📫 Como entrar em contato comigo:
-<br><img height="20cm" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> : Brendaraveli00@gmail.com 
-<br><img height="20cm" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> : https://www.linkedin.com/in/brenda-raveli-b546a6209/ 
------
+<div><h1>👋 Olá, eu sou a @Brenda Raveli </div>                        
+<br><div class="d-flex justify-content-center">
+<a href="https://github.com/BrendaRaveli/"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=BrendaRaveli&theme=dracula&show_icons=true&include_all_commits=true&count_private"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaRaveli&layout=compact&theme=dracula&show_icons=true&include_all_commits=true&count_private"/>
 
+  <hr>
+</div>
 <div class="d-flex justify-content-center">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <i class="devicon-csharp-line colored"></i>
@@ -26,13 +26,14 @@
   
 <img height="60cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
- <br>
- <br>
-  <div>
  
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=BrendaRaveli&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/><br>
+ <hr>
+  <div>
 
+<p> 📫 Como entrar em contato comigo:</p>&ensp;&ensp;&ensp;<a href="https://www.linkedin.com/in/brenda-raveli-b546a6209/" target"_blank"><img align="center" height="27cm" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank" ></a> &ensp;&ensp;
+<a href="mailto:Brendaraveli00@gmail.com"><img align="center" height="27cm" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target"_blank" ></a>&ensp;
 
+  </div>
 </div>
 
 
