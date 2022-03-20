@@ -1,9 +1,14 @@
 
-<div><h1>👋 Olá, eu sou a @Brenda Raveli </div>                        
+<div><h2>👋 Olá, eu sou a @Brenda Raveli </div>                        
+  <a> 📫 Como entrar em contato comigo:</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://www.linkedin.com/in/brenda-raveli-b546a6209/" target"_blank"><img align="center" height="27cm" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank" ></a>
+<a href="mailto:Brendaraveli00@gmail.com"><img align="center" height="27cm" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target"_blank" ></a>&ensp;
+  
 <br><div class="d-flex justify-content-center">
 <a href="https://github.com/BrendaRaveli/"/>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=BrendaRaveli&theme=dracula&include_all_commits=true&count_private"/>
-<!--  <img height="125cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaRaveli&layout=compact&theme=dracula&show_icons=true&include_all_commits=true&count_private"/>-->
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=BrendaRaveli&theme=dracula&include_all_commits=true&count_private"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendaraveli&hide=tsql,dockerfile&langs_count=8 &layout=compact&theme=dracula&show_icons=true&include_all_commits=true&count_private"/>
+
   
   <hr>
 </div>
@@ -26,13 +31,8 @@
   
 <img height="60cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
- 
  <hr>
   <div>
-
-<p> 📫 Como entrar em contato comigo:</p>&ensp;&ensp;&ensp;<a href="https://www.linkedin.com/in/brenda-raveli-b546a6209/" target"_blank"><img align="center" height="27cm" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank" ></a> &ensp;&ensp;
-<a href="mailto:Brendaraveli00@gmail.com"><img align="center" height="27cm" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target"_blank" ></a>&ensp;
-
   </div>
 </div>
 
