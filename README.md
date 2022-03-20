@@ -6,8 +6,8 @@
   
 <br><div class="d-flex justify-content-center">
 <a href="https://github.com/BrendaRaveli/"/>
- &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img align="center" height="140cm" src="https://github-readme-stats.vercel.app/api?username=BrendaRaveli&theme=dracula&include_all_commits=true&count_private"/>
-  <img align="center" height="125cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendaraveli&hide=tsql,dockerfile&langs_count=8 &layout=compact&theme=dracula&show_icons=true&include_all_commits=true&count_private"/>
+<img align="center" height="140cm" src="https://github-readme-stats.vercel.app/api?username=BrendaRaveli&theme=dracula&include_all_commits=true&count_private"/>
+  <img align="center" height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendaraveli&hide=tsql,dockerfile&langs_count=8 &layout=compact&theme=dracula&show_icons=true&include_all_commits=true&count_private"/>
   <hr>
 </div>
 <div class="d-flex justify-content-center">
